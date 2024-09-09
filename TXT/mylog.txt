@@ -7,6 +7,14 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W02 L00 General, etc.
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 25 L22 Linux CLI including tar, etc.
+ZCZC W02 10 L41 TXT/mylog.txt related.
+ZCZC W02 20 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W02 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W01 70 L00 General, etc.
 ZCZC W01 50 L01 SCELE/Discord related
 ZCZC W01 210 L02 CLASSROOM/ZOOM meetings related
