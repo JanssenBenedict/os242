@@ -5,15 +5,10 @@
 
 Sistem Operasi 2024-2 (Semester Ganjil 2024/2025)
 
-[TIPS](TIPS/) --- [LINKS](links.md) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/JanssenBenedict/os242)
+[TIPS](tips.md) --- [LINKS](links.md) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/JanssenBenedict/os242)
 
 <br>
-### To Get JanssenBenedict's TARBALL:
-
-```
-
-```
 
 <br><b>
-#### REV: Sun 08 Sep 2024 20:00
+#### REV: Wed 18 Sep 2024 20:40
 <br>
