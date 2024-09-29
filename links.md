@@ -11,5 +11,6 @@ permalink: LINKS/
 * [What is GPG / PGP and how do I use it?](https://www.privex.io/articles/what-is-gpg) --- An article explaining PGP/GPG keys.
 * [Learn C Language In 10 Minutes!! C Language Tutorial](https://www.youtube.com/watch?v=dTp0c41XnrQ) --- A short video explaining the basics of the C language.
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) --- A quick video providing an explanation regarding files and file systems.
+* [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4?si=aLqdteLJFcLJoqJ5) --- A video explaining the directories inside a Linux file system.
 <br>
 <hr>
