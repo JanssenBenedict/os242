@@ -12,5 +12,6 @@ permalink: LINKS/
 * [Learn C Language In 10 Minutes!! C Language Tutorial](https://www.youtube.com/watch?v=dTp0c41XnrQ) --- A short video explaining the basics of the C language.
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) --- A quick video providing an explanation regarding files and file systems.
 * [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4?si=aLqdteLJFcLJoqJ5) --- A video explaining the directories inside a Linux file system.
+* [Linux Crash Course - Understanding Memory and Swap Usage](https://youtu.be/XTMyJ5l0GLg?si=ZZWD44tRr7W0pDUW) --- A detailed video on YouTube explaining memory and swap usage.
 <br>
 <hr>
