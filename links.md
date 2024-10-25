@@ -13,5 +13,6 @@ permalink: LINKS/
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) --- A quick video providing an explanation regarding files and file systems.
 * [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4?si=aLqdteLJFcLJoqJ5) --- A video explaining the directories inside a Linux file system.
 * [Linux Crash Course - Understanding Memory and Swap Usage](https://youtu.be/XTMyJ5l0GLg?si=ZZWD44tRr7W0pDUW) --- A detailed video on YouTube explaining memory and swap usage.
+* [Threads vs Processes in Linux](https://www.scaler.com/topics/linux-thread/) --- A helpful article elaborating on the topic of processes and threads in Linux.
 <br>
 <hr>
