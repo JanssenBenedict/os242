@@ -12,8 +12,8 @@ ZCZC W06 190 L01 SCELE/Discord related
 ZCZC W06 120 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 150 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 25 L04 GitHub Pages related
-ZCZC W06 240 L05 Studying for Quiz
-ZCZC W06 340 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 250 L05 Studying for Quiz
+ZCZC W06 350 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 30 L07 Demo related
 ZCZC W06 15 L08 OS Chat on WA & LINE with Friends
 ZCZC W06 250 L09 Assignment in General
