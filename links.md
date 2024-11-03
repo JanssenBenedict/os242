@@ -14,5 +14,6 @@ permalink: LINKS/
 * [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4?si=aLqdteLJFcLJoqJ5) --- A video explaining the directories inside a Linux file system.
 * [Linux Crash Course - Understanding Memory and Swap Usage](https://youtu.be/XTMyJ5l0GLg?si=ZZWD44tRr7W0pDUW) --- A detailed video on YouTube explaining memory and swap usage.
 * [Threads vs Processes in Linux](https://www.scaler.com/topics/linux-thread/) --- A helpful article elaborating on the topic of processes and threads in Linux.
+* [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/) --- A useful article explaining the differences between Mutex and Semaphores in an operating system.
 <br>
 <hr>
