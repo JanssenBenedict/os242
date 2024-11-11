@@ -15,5 +15,6 @@ permalink: LINKS/
 * [Linux Crash Course - Understanding Memory and Swap Usage](https://youtu.be/XTMyJ5l0GLg?si=ZZWD44tRr7W0pDUW) --- A detailed video on YouTube explaining memory and swap usage.
 * [Threads vs Processes in Linux](https://www.scaler.com/topics/linux-thread/) --- A helpful article elaborating on the topic of processes and threads in Linux.
 * [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/) --- A useful article explaining the differences between Mutex and Semaphores in an operating system.
+* [Priority Based Round-Robin CPU Scheduling Algorithm with Case Study](https://chiraggoyaliit.medium.com/priority-based-round-robin-cpu-scheduling-algorithm-f9aa8517a844) --- A helpful article elaborating on CPU Scheduling & Priority Based Round-Robin CPU Scheduling Algorithm.
 <br>
 <hr>
