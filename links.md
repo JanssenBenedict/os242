@@ -16,5 +16,6 @@ permalink: LINKS/
 * [Threads vs Processes in Linux](https://www.scaler.com/topics/linux-thread/) --- A helpful article elaborating on the topic of processes and threads in Linux.
 * [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/) --- A useful article explaining the differences between Mutex and Semaphores in an operating system.
 * [Priority Based Round-Robin CPU Scheduling Algorithm with Case Study](https://chiraggoyaliit.medium.com/priority-based-round-robin-cpu-scheduling-algorithm-f9aa8517a844) --- A helpful article elaborating on CPU Scheduling & Priority Based Round-Robin CPU Scheduling Algorithm.
+* [Difference Between SCAN and CSCAN Disk Scheduling Algorithms](https://www.geeksforgeeks.org/difference-between-scan-and-cscan-disk-scheduling-algorithms/) --- A great article explaining the differences between SCAN and C-SCAN disk scheduling algorithms.
 <br>
 <hr>
