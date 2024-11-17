@@ -18,13 +18,13 @@ ZCZC W09 50 L07 Demo related
 ZCZC W09 40 L08 OS Chat on WA & LINE with Friends
 ZCZC W09 500 L09 Assignment in General
 ZCZC W09 500 L19 Weekly Assignment #09
-ZCZC W09 500 L22 Linux CLI including tar, etc.
+ZCZC W09 550 L22 Linux CLI including tar, etc.
 ZCZC W09 50 L41 TXT/mylog.txt related.
 ZCZC W09 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W09 25 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W09 25 L45 TXT/SHA256SUM related
 ZCZC W09 40 L62 Backup Virtual Debian Guest
-ZCZC W09 890 L70 Studying for other courses.
+ZCZC W09 900 L70 Studying for other courses.
 
 ZCZC W08 150 L00 General, etc.
 ZCZC W08 230 L01 SCELE/Discord related
